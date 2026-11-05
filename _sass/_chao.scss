@@ -3,7 +3,6 @@
   --link: #adcadf; --line: #354550; --wash: #243643; --media: #23333f; color-scheme: dark;
 }
 :root { --paper: #FAFAF7; --ink: #27323A; --muted: #616e78; --blue: #647F96; --red: #A74E57; --link: #49677e; --line: #e0e5e8; --wash: #eaf0f4; --media: #e9edef; color-scheme: light; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { @include night-palette; } }
 :root[data-theme="dark"] { @include night-palette; }
 $ivory: #FAFAF7;
 $slate: #27323A;

@@ -52,7 +52,7 @@ THIRD_PARTY_NOTICES.md        上游和媒体说明
 docs/                        内容来源、待补资料、验收记录
 ```
 
-页面无额外 JavaScript 库、远程字体、分析追踪或 Scholar 爬虫。assets/js/site.js 仅使用少量原生 JavaScript 实现主题切换。三个项目展示为自动循环 GIF，桌面展示尺寸保持 240×150；无展开播放器。Video 链接直接打开保留的原速 MP4。系统启用减少动态效果时使用静态帧。暗色模式默认跟随系统，顶栏按钮可切换并记住选择。头像保留完整正方形与原始像素。已加入真实 Gmail mailto 联系方式；Publications、Scholar、CV 未创建。
+页面无额外 JavaScript 库、远程字体、分析追踪或 Scholar 爬虫。assets/js/site.js 仅使用少量原生 JavaScript 实现主题切换。三个项目展示为自动循环 GIF，桌面展示尺寸保持 240×150；无展开播放器。Video 链接直接打开保留的原速 MP4。系统启用减少动态效果时使用静态帧。首次访问默认浅色，不跟随系统主题；顶栏按钮可切换并记住选择。头像保留完整正方形与原始像素。已加入真实 Gmail mailto 联系方式；Publications、Scholar、CV 未创建。
 
 ## GitHub Pages 部署
 
