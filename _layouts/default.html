@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>{% include head.html %}</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+{% include masthead.html %}
+<div id="main">
+  {% include sidebar.html %}
+  <main id="main-content" class="page">
+    <div class="page__inner-wrap"><div class="page__content">{{ content }}</div></div>
+    <footer class="site-footer">
+      <p>© {{ site.time | date: '%Y' }} Chao Tang · Built with <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>.</p>
+    </footer>
+  </main>
+</div>
+<script src="{{ "/assets/js/site.js" | relative_url }}" defer></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+title: "Chao Tang"
+description: "Undergraduate in Automation at Tongji University. Exploring robot learning, legged locomotion, and robotic manipulation."
+url: "https://chao142857.github.io"
+baseurl: ""
+repository: "chao142857/chao142857.github.io"
+lang: en
+timezone: Asia/Shanghai
+author:
+  name: "Chao Tang"
+  avatar: /images/momoka.png
+  bio: "Undergraduate · Automation"
+  employer: "Tongji University"
+  email: "chao070503@gmail.com"
+  github: chao142857
+include: [_pages]
+exclude: [README.md, Gemfile, Gemfile.lock, vendor, .bundle, docs, scripts, LICENSE, THIRD_PARTY_NOTICES.md, run_server.sh]
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins: [jekyll-sitemap]
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true

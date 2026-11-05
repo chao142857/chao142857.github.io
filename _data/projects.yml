@@ -1,0 +1,33 @@
+- title: ROS 2 Visual Manipulator
+  description: "A six-axis manipulation platform integrating RGB-D perception, arm control, and grasp planning through ROS 2."
+  tech: "ROS 2 · MoveIt 2 · RGB-D Perception"
+  image: /images/projects/robot-arm.gif
+  still: /images/projects/robot-arm.gif.png
+  preview_note: "Looping demo preview · 1× speed; original timing in Video"
+  alt: "Six-axis robotic arm at the workbench"
+  width: 538
+  height: 720
+  video: /assets/video/six-axis-arm.mp4
+  github: https://github.com/chao142857/ros2-visual-manipulator
+- title: Legged Robot Learning
+  description: "Exploring reinforcement learning for legged locomotion and Go2–Piper whole-body control in simulation, including task sampling and policy transfer."
+  tech: "PPO · Task Sampling · Whole-Body Control"
+  image: /images/projects/legged-simulation.gif
+  still: /images/projects/legged-simulation.gif.png
+  preview_note: "Looping demo preview · 1.5× speed; original timing in Video"
+  alt: "Quadruped with a mounted arm in simulation"
+  width: 720
+  height: 270
+  video: /assets/video/legged-simulation.mp4
+  github: https://github.com/chao142857/legged-robot-learning
+- title: Astra × RealMan
+  description: "Exploring multimodal spatial reasoning and closed-loop robotic manipulation on a dual-arm platform."
+  tech: "Multimodal Reasoning · RealMan · Dual-Arm Manipulation"
+  image: /images/projects/realman.gif
+  still: /images/projects/realman.gif.png
+  preview_note: "Looping demo preview · 3× speed; original timing in Video"
+  alt: "RealMan dual-arm tabletop setup"
+  width: 720
+  height: 405
+  video: /assets/video/realman.mp4
+  github: https://github.com/chao142857/astra-realman

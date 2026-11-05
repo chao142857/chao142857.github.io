@@ -1,0 +1,8 @@
+<header class="masthead">
+  <div class="masthead__inner-wrap">
+    <a class="site-name" href="{{ '/' | relative_url }}">Chao Tang</a>
+    <nav aria-label="Main navigation"><ul>
+    {% for link in site.data.navigation.main %}<li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>{% endfor %}
+    </ul></nav><button class="theme-toggle" type="button" aria-label="Switch to dark mode" title="Change color theme" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 3a9 9 0 1 0 6 15A10 10 0 0 1 15 3Z"/></svg></button>
+  </div>
+</header>

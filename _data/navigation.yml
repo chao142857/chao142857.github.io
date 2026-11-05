@@ -1,0 +1,11 @@
+main:
+  - title: About
+    url: /#about-me
+  - title: Research
+    url: /#research-interests
+  - title: Projects
+    url: /#selected-projects
+  - title: Experience
+    url: /#research-experience
+  - title: Beyond
+    url: /#beyond-research
