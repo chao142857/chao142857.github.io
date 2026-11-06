@@ -81,4 +81,4 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-
 
 ## 内容维护
 
-见 docs/CONTENT_SOURCES.md 与 docs/TO_COMPLETE.md。更新经历和项目时只加入可核实的信息。添加研究结果时保留实机/仿真边界，SGS 不写成原创方法或已证明优于基线。当前实习条目只列用户提供的职位类别与时间，没有推断职责。
+见 docs/CONTENT_SOURCES.md 与 docs/TO_COMPLETE.md。
