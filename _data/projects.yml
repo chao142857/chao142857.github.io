@@ -9,6 +9,15 @@
   height: 270
   video: /assets/video/legged-simulation.mp4
   github: https://github.com/chao142857/legged-robot-learning/tree/research/nsgs-v02-20261106/projects/sgs/nsgs_v02_20261106
+- title: "π0.5 × RealMan — Real-World Robot Manipulation"
+  description: "Fine-tuned π0.5 on 50 teleoperated demonstrations and deployed it on a real RealMan robot for banana pick-and-place, achieving 9/10 successful onsite pilot trials."
+  tech: "Vision-Language-Action · Imitation Learning · Real-World Deployment"
+  image: /images/projects/pi05-realman.gif
+  still: /images/projects/pi05-realman.png
+  alt: "RealMan robot performing banana pick-and-place"
+  preview_note: "Expert pick-and-place demonstration · 4× speed"
+  github: https://github.com/chao142857/realman-pi05-banana
+  video: https://github.com/chao142857/realman-pi05-banana/blob/main/assets/expert_pick_place_2x.mp4
 - title: Astra × RealMan
   description: "Exploring multimodal spatial reasoning and closed-loop robotic manipulation on a dual-arm platform."
   tech: "Multimodal Reasoning · RealMan · Dual-Arm Manipulation"
