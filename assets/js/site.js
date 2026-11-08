@@ -7,7 +7,6 @@
   updateLabel();
   toggle.addEventListener('click', () => {
     root.dataset.theme = isDark() ? 'light' : 'dark';
-    try { localStorage.setItem('chao-theme', root.dataset.theme); } catch (e) {}
     updateLabel();
   });
 })();
