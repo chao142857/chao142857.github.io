@@ -1,14 +1,12 @@
 - title: "Current Research: nSGS"
-  description: "A state-conditioned neural task sampler for Go2–Piper whole-body control in simulation, with matched-start PPO comparisons and ongoing transfer evaluation."
+  description: "Developing nSGS, a neural adaptive task sampler for Go2–Piper whole-body control. Preliminary results across four student seeds show a modest average improvement over Uniform sampling. Current research focuses on adaptive learning, cross-student generalization, and learning dynamics."
   tech: "PPO · Adaptive Task Sampling · Whole-Body Control"
-  image: /images/projects/legged-simulation.gif
-  still: /images/projects/legged-simulation.gif.png
-  preview_note: "Go2–Piper platform demo, not an nSGS comparison · 1.5× speed; original timing in Video"
-  alt: "Quadruped with a mounted arm in simulation"
-  width: 720
-  height: 270
+  image: /images/projects/nsgs-four-seed-strict-success.png
+  alt: "Strict joint success curves for Uniform, Fresh Teacher, and corrected CleanMeta8, averaged across four student seeds"
+  width: 1643
+  height: 914
   video: /assets/video/legged-simulation.mp4
-  github: https://github.com/chao142857/legged-robot-learning/tree/research/nsgs-v02-20261106/projects/sgs/nsgs_v02_20261106
+  github: https://github.com/chao142857/legged-robot-learning#current-research-nsgs
 - title: "π0.5 × RealMan — Real-World Robot Manipulation"
   description: "Fine-tuned π0.5 on 50 teleoperated demonstrations and deployed it on a real RealMan robot for banana pick-and-place, achieving 9/10 successful onsite pilot trials."
   tech: "Vision-Language-Action · Imitation Learning · Real-World Deployment"
