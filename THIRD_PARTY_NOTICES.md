@@ -8,6 +8,6 @@ The Momoka Kawaragi avatar was supplied by the site owner, copied byte-for-byte 
 
 The three videos and extracted poster frames were supplied by the site owner for this homepage. Local MP4 derivatives omit audio and export metadata; source clips remain untouched. The website software license does not grant rights to third-party robot assets or laboratory imagery visible in these clips.
 
-The optional simulation-results.svg comes from chao142857/legged-robot-learning, whose original contributions are Apache-2.0. Its Apache license and NOTICE are retained in docs/licenses. The chart is not used as a claim of matched comparison. Project content sources and media mappings are recorded in docs/CONTENT_SOURCES.md.
+The optional simulation-results.svg comes from chao142857/nsgs (formerly legged-robot-learning), whose original contributions are Apache-2.0. Its Apache license and NOTICE are retained in docs/licenses. The chart is not used as a claim of matched comparison. Project content sources and media mappings are recorded in docs/CONTENT_SOURCES.md.
 
 Allura by TypeSETit is bundled locally under the SIL Open Font License 1.1; see docs/licenses/Allura-OFL.txt. The Music image (images/music-gbc.jpg) was supplied by the owner and copied unchanged, including its original copyright marking. It remains the property of its respective rights holders and is not covered by the code license.

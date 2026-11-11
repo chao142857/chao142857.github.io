@@ -4,7 +4,7 @@ Reviewed 2026-11-05 / 2026-11-06 (Asia/Shanghai).
 
 - Template: https://github.com/RayeRen/acad-homepage.github.io — main tree `2cc1577eeaf2f74dede6d016a70722dbd409ea2f`. MIT LICENSE preserved unchanged. Reference layout: https://rayeren.github.io/ . No author identity, publications or biography copied.
 - ROS project: https://github.com/chao142857/ros2-visual-manipulator/blob/main/README.md . ROS 2 Humble, serial six-axis control, separate gripper, Qt, RealSense D405, Open3D and MoveIt 2. Perception and planning are distinguished from complete autonomous execution.
-- Learning project: https://github.com/chao142857/legged-robot-learning/blob/main/README.md . Simulation-only locomotion/WBC, SGS experiments and PPO diagnostics. No established SGS improvement or real-robot validation.
+- Learning project: https://github.com/chao142857/nsgs/blob/main/README.md . Simulation-only nSGS task sampling for Go2–Piper whole-body control; preliminary CleanMeta8 transfer results and separate CL1 Base/Recovery experiments.
 - RealMan: https://github.com/chao142857/astra-realman/blob/main/README.md . Archived integration/experiment work, multimodal decisions, spatial input and dual-arm hardware/simulation. No reliable general-purpose manipulation claim. No private branches or code fetched.
 - Name, education, interests and AgiBot internship: supplied directly by owner. No additional dates, supervisors or responsibilities inferred.
 - Beyond Research: owner-provided musical preferences; original prose, no lyrics or audio.

@@ -8,7 +8,7 @@
   width: 720
   height: 270
   video: /assets/video/legged-simulation.mp4
-  github: https://github.com/chao142857/legged-robot-learning#current-research-nsgs
+  github: https://github.com/chao142857/nsgs
 - title: "π0.5 × RealMan — Real-World Robot Manipulation"
   description: "Fine-tuned π0.5 on 50 teleoperated demonstrations and deployed it on a real RealMan robot for banana pick-and-place, achieving 9/10 successful onsite pilot trials."
   tech: "Vision-Language-Action · Imitation Learning · Real-World Deployment"
