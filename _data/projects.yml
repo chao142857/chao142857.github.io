@@ -19,11 +19,11 @@
   github: https://github.com/chao142857/realman-pi05-banana
   video: https://github.com/chao142857/realman-pi05-banana/blob/main/assets/expert_pick_place_2x.mp4
 - title: Astra × RealMan
-  description: "Exploring multimodal spatial reasoning and closed-loop robotic manipulation on a dual-arm platform."
+  description: "Integrated multimodal reasoning with a RealMan dual-arm control loop. Recorded one complete banana pick–handoff–place execution and studied spatial grounding and execution reliability."
   tech: "Multimodal Reasoning · RealMan · Dual-Arm Manipulation"
   image: /images/projects/realman.gif
   still: /images/projects/realman.gif.png
-  preview_note: "Looping demo preview · 3× speed; original timing in Video"
+  preview_note: "RealMan platform demo; not verified as the V17 run · 3× speed; original timing in Video"
   alt: "RealMan dual-arm tabletop setup"
   width: 720
   height: 405
