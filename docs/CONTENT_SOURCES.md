@@ -28,3 +28,7 @@ User supplied Gmail, the motto “My heart is in the work.” and the five sideb
 ## GIF and publication revision — 2026-11-06
 
 Owner requested automatic GIF demos, supplied good.jpg for Music, requested plain calligraphic motto, and explicitly authorized public GitHub Pages deployment. GIFs are 480×300 at 8 fps and loop indefinitely; arm 1×, quadruped simulation 1.5×, RealMan 3×. Full clip duration is sampled with these timing scales. Crops emphasize the robot; the simulation's empty left half is omitted. Original-timing MP4s remain linked. Reduced-motion preference selects a static frame. Music image is copied byte-for-byte; attribution remains in its pixels.
+
+## Astra recording identification — 2026-11-12
+
+The project owner explicitly confirmed that `images/projects/realman.gif` is the successful V17 banana pick–handoff–place recording. Its original-speed source is `assets/video/realman.mp4`, as mapped above. The Astra card now identifies the V17 success and retains the 3× GIF playback label. The media files are unchanged.

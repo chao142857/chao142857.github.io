@@ -23,8 +23,8 @@
   tech: "Multimodal Reasoning · RealMan · Dual-Arm Manipulation"
   image: /images/projects/realman.gif
   still: /images/projects/realman.gif.png
-  preview_note: "RealMan platform demo; not verified as the V17 run · 3× speed; original timing in Video"
-  alt: "RealMan dual-arm tabletop setup"
+  preview_note: "V17 successful pick–handoff–place · 3× speed; original timing in Video"
+  alt: "RealMan dual-arm V17 successful banana pick–handoff–place"
   width: 720
   height: 405
   video: /assets/video/realman.mp4
