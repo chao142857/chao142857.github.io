@@ -1,9 +1,9 @@
-- title: "Current Research: nSGS"
-  description: "Developing nSGS, a neural adaptive task sampler for Go2–Piper whole-body control. Preliminary results across four student seeds show a modest average improvement over Uniform sampling. Current research focuses on adaptive learning, cross-student generalization, and learning dynamics."
+- title: "nSGS — Neural Success-Guided Sampling"
+  description: "nSGS explores how a neural task sampler can guide PPO training for Go2–Piper whole-body control. In a four-seed simulation study, CleanMeta8 achieves 33.50% mean strict success, compared with 31.88% under uniform sampling."
   tech: "PPO · Adaptive Task Sampling · Whole-Body Control"
   image: /images/projects/legged-simulation.gif
   still: /images/projects/legged-simulation.gif.png
-  preview_note: "Go2–Piper platform demo · 1.5× speed · Original timing in Video"
+  preview_note: "Go2–Piper platform demo (not nSGS results) · 1.5× speed · Original timing in Video"
   alt: "Quadruped with a mounted arm in simulation"
   width: 720
   height: 270
