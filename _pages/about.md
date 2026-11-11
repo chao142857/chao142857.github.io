@@ -18,16 +18,10 @@ I am interested in how robots learn transferable behaviors and connect perceptio
 {% for project in site.data.projects %}
 <article class="paper-box" id="project-{{ forloop.index }}">
   <figure class="paper-box-image">
-    {% if project.still %}
     <picture class="project-animation">
       <source media="(prefers-reduced-motion: reduce)" srcset="{{ project.still | relative_url }}">
       <img src="{{ project.image | relative_url }}" alt="{{ project.alt }}" width="480" height="300" loading="lazy" title="{{ project.preview_note }}">
     </picture>
-    {% else %}
-    <a href="{{ project.image | relative_url }}">
-      <img src="{{ project.image | relative_url }}" alt="{{ project.alt }}" width="{{ project.width }}" height="{{ project.height }}" loading="lazy">
-    </a>
-    {% endif %}
   </figure>
   <div class="paper-box-text">
     <h3>{{ project.title }}</h3>
