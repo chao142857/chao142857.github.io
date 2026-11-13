@@ -11,7 +11,7 @@ I explore learning-based locomotion and manipulation, connecting algorithms with
 
 ## Research Interests {#research-interests}
 
-I am interested in how robots learn transferable behaviors and connect perception, reasoning, and action across tasks.
+I study how robots learn adaptable, generalizable skills — from adaptive training distributions for whole-body RL (nSGS) to fine-tuning VLA policies for real-robot manipulation — with humanoid robots as a long-term goal.
 
 ## Selected Projects {#selected-projects}
 
@@ -34,13 +34,11 @@ I am interested in how robots learn transferable behaviors and connect perceptio
 
 ## Research Experience {#research-experience}
 
-<div class="experience-entry"><div><h3>Tongji University</h3><p>Robotics Research</p><p class="experience-summary">Exploring robot learning and hands-on manipulation systems.</p></div></div>
-
-<div class="experience-entry"><div><h3>AgiBot</h3><p>Robotics / Mechanical Engineering Intern</p></div><span class="date">Summer 2026</span></div>
+<div class="experience-entry"><div><h3>AgiBot</h3><p>Mechanical Design Intern</p></div><span class="date">Summer 2026</span></div>
 
 ## Education {#education}
 
-<div class="experience-entry"><div><h3>Tongji University</h3><p>Undergraduate, Automation</p></div><span class="date">2025 – Present</span></div>
+<div class="experience-entry"><div><h3>Tongji University</h3><p>B.Eng. in Automation (Excellence Program)</p></div><span class="date">2025 – 2029 (expected)</span></div>
 
 ## Beyond Research {#beyond-research}
 

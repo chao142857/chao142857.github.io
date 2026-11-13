@@ -1,5 +1,5 @@
 - title: "nSGS — Neural Success-Guided Sampling"
-  description: "nSGS explores how a neural task sampler can guide PPO training for Go2–Piper whole-body control. In a four-seed simulation study, CleanMeta8 achieves 33.50% mean strict success, compared with 31.88% under uniform sampling."
+  description: "nSGS explores how a neural task sampler can guide PPO training for Go2–Piper whole-body control. Preliminary experiments across four student seeds show a modest average improvement over uniform sampling; cross-seed generalization is under investigation."
   tech: "PPO · Adaptive Task Sampling · Whole-Body Control"
   image: /images/projects/legged-simulation.gif
   still: /images/projects/legged-simulation.gif.png
@@ -10,7 +10,7 @@
   video: /assets/video/legged-simulation.mp4
   github: https://github.com/chao142857/nsgs
 - title: "π0.5 × RealMan — Real-World Robot Manipulation"
-  description: "Fine-tuned π0.5 on 50 teleoperated demonstrations and deployed it on a real RealMan robot for banana pick-and-place, achieving 9/10 successful onsite pilot trials."
+  description: "Fine-tuned π0.5 on 50 teleoperated demonstrations and deployed it on a real RealMan robot for banana pick-and-place. Compared fine-tuning strategies: action-expert-only fine-tuning achieved 9/10 successful onsite pilot trials, while LoRA fine-tuning achieved 0/8."
   tech: "Vision-Language-Action · Imitation Learning · Real-World Deployment"
   image: /images/projects/pi05-realman.gif
   still: /images/projects/pi05-realman.png
@@ -19,7 +19,7 @@
   github: https://github.com/chao142857/realman-pi05-banana
   video: https://github.com/chao142857/realman-pi05-banana/blob/main/assets/expert_pick_place_2x.mp4
 - title: Astra × RealMan
-  description: "Integrated multimodal reasoning with a RealMan dual-arm control loop. Recorded one complete banana pick–handoff–place execution and studied spatial grounding and execution reliability."
+  description: "Integrated gpt6-astra with a RealMan dual-arm control loop through multi-camera observations and a target-pose action interface. Ran four real-robot trials (~30 min each), achieving one complete pick–handoff–place execution, and analyzed failure modes in spatial grounding and action execution."
   tech: "Multimodal Reasoning · RealMan · Dual-Arm Manipulation"
   image: /images/projects/realman.gif
   still: /images/projects/realman.gif.png
