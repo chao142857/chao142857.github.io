@@ -19,7 +19,7 @@
   github: https://github.com/chao142857/realman-pi05-banana
   video: https://github.com/chao142857/realman-pi05-banana/blob/main/assets/expert_pick_place_2x.mp4
 - title: Astra × RealMan
-  description: "Integrated gpt6-astra with a RealMan dual-arm control loop through multi-camera observations and a target-pose action interface. Ran four real-robot trials (~30 min each), achieving one complete pick–handoff–place execution, and analyzed failure modes in spatial grounding and action execution."
+  description: "Integrated GPT-6 Astra with a RealMan dual-arm control loop through multi-camera observations and a target-pose action interface. Ran four real-robot trials (~30 min each), achieving one complete pick–handoff–place execution, and analyzed failure modes in spatial grounding and action execution."
   tech: "Multimodal Reasoning · RealMan · Dual-Arm Manipulation"
   image: /images/projects/realman.gif
   still: /images/projects/realman.gif.png
