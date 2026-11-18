@@ -1,5 +1,5 @@
 - title: "nSGS — Neural Success-Guided Sampling"
-  description: "nSGS explores how a neural task sampler can guide PPO training for Go2–Piper whole-body control. Preliminary experiments across four student seeds show a modest average improvement over uniform sampling; cross-seed generalization is under investigation."
+  description: "nSGS develops neural task sampling for PPO-based Go2–Piper whole-body control, using student feedback to adapt training distributions across task configurations. On a 1.05M-configuration reach benchmark, it achieved 95.9–98.5% terminal task coverage across three seeds, outperforming per-configuration tabular sampling. Ongoing work explores generalization to more complex manipulation tasks."
   tech: "PPO · Adaptive Task Sampling · Whole-Body Control"
   image: /images/projects/legged-simulation.gif
   still: /images/projects/legged-simulation.gif.png

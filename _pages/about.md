@@ -5,9 +5,11 @@ title: Chao Tang
 
 ## About Me {#about-me}
 
-I am an undergraduate student in Automation at **Tongji University**, interested in building robots that can perceive, learn, and act in the physical world.
+I'm an undergraduate student in Automation at Tongji University, interested in building adaptive and generalist robots.
 
-I explore learning-based locomotion and manipulation, connecting algorithms with robotic systems through simulation experiments and hands-on deployment.
+My current work spans deep reinforcement learning, neural curriculum learning, whole-body control, and Vision-Language-Action (VLA) models, with experience in both simulation and real-world robotic manipulation.
+
+My long-term research interests center on how robots can learn efficiently from interaction, adapt to new situations, and continually acquire and retain skills.
 
 ## Research Interests {#research-interests}
 
